@@ -8,7 +8,7 @@ Help server: https://discord.gg/TT9gUCKVnb
 -replit
 
 ### Features:
-`ddos:` spam attacks a custom ip. We are not responsible for anything take it at your own risk!!
+`ddos:` remooved
 
 `help:` open the help page
 
