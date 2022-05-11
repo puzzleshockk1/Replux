@@ -3,7 +3,7 @@
 ## created by [@valhallaboi](https://repl.it/@valhallaboi) & [@puzzle_shock1](https://replit.com/@puzzleshock1)
 
 
-### Test ed systems:
+### Tested systems:
 -replit
 ### Features:
 `ddos:` spam attacks a custom ip
