@@ -6,6 +6,8 @@
 ### Tested systems:
 -replit
 
+Help server: https://discord.gg/TT9gUCKVnb
+
 ### Features:
 `ddos:` spam attacks a custom ip. We are not responsible for anything take it at your own risk!!
 
