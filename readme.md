@@ -5,7 +5,7 @@
 
 ### Tested systems:
 -replit
-![Replux](https://i.ibb.co/sqLVHf5/image-2022-05-11-213332039.png)
+
 ### Features:
 `ddos:` spam attacks a custom ip
 
@@ -34,3 +34,6 @@
 ### Replit link 
 
 https://replit.com/@puzzleshock1/Replux-beta?v=1
+
+![Replux](https://i.ibb.co/sqLVHf5/image-2022-05-11-213332039.png)
+
