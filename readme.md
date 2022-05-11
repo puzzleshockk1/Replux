@@ -3,7 +3,7 @@
 ## created by [@valhallaboi](https://repl.it/@valhallaboi) & [@puzzle_shock1](https://replit.com/@puzzleshock1)
 
 
-### Tested systems:
+### Test ed systems:
 -replit
 ### features:
 `ddos:` spam attacks a custom ip
@@ -30,6 +30,6 @@
 
 `run command:` "python3","main.py"
 
-###Replit link 
+### Replit link 
 
 https://replit.com/@puzzleshock1/Replux-beta?v=1
