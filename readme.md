@@ -8,7 +8,7 @@ Help server: https://discord.gg/TT9gUCKVnb
 -replit
 
 ### Features:
-`ddos:` remooved
+`ddos:` removed
 
 `help:` open the help page
 
