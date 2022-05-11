@@ -2,6 +2,7 @@
 
 ## created by [@valhallaboi](https://repl.it/@valhallaboi) & [@puzzle_shock1](https://replit.com/@puzzleshock1)
 
+
 ### Tested systems:
 -replit
 ### features:
@@ -28,3 +29,6 @@
 `about:` About Replux
 
 `run command:` "python3","main.py"
+###Replit link 
+
+https://replit.com/@puzzleshock1/Replux-beta?v=1
