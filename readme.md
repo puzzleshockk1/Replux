@@ -7,7 +7,7 @@
 -replit
 
 ### Features:
-`ddos:` spam attacks a custom ip
+`ddos:` spam attacks a custom ip. We are not responsible for anything take it at your own risk!!
 
 `help:` open the help page
 
