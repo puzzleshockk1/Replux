@@ -48,7 +48,7 @@ def check(users):
     except:
         pass
 
-with open('users.txt', 'r') as f:
+with open('replux/users.txt', 'r') as f:
     users = [line.strip() for line in f]
 with concurrent.futures.ThreadPoolExecutor() as executor:
     executor.map(check,users)
