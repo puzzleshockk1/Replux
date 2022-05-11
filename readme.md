@@ -5,7 +5,7 @@
 
 ### Test ed systems:
 -replit
-### features:
+### Features:
 `ddos:` spam attacks a custom ip
 
 `help:` open the help page
