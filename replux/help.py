@@ -2,8 +2,6 @@ import time
 
 print("\nHELP PAGE\n---------------")
 time.sleep(0.4)
-print("ddos:\nThis command opens a ddos spam attack on any ip\n-----")
-time.sleep(0.4)
 print("ip a:\nThis command gets your public ip address\n-----")
 print("help:\nThis command displays the help page\n-----")
 time.sleep(0.4)
