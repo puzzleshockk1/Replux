@@ -5,6 +5,7 @@
 
 ### Tested systems:
 -replit
+![Replux](https://i.ibb.co/sqLVHf5/image-2022-05-11-213332039.png)
 ### Features:
 `ddos:` spam attacks a custom ip
 
