@@ -2,6 +2,8 @@
 
 ## created by [@valhallaboi](https://repl.it/@valhallaboi) & [@puzzle_shock1](https://replit.com/@puzzleshock1)
 
+### Tested systems:
+-replit
 ### features:
 `ddos:` spam attacks a custom ip
 
