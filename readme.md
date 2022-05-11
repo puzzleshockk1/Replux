@@ -2,11 +2,10 @@
 
 ## created by [@valhallaboi](https://repl.it/@valhallaboi) & [@puzzle_shock1](https://replit.com/@puzzleshock1)
 
+Help server: https://discord.gg/TT9gUCKVnb
 
 ### Tested systems:
 -replit
-
-Help server: https://discord.gg/TT9gUCKVnb
 
 ### Features:
 `ddos:` spam attacks a custom ip. We are not responsible for anything take it at your own risk!!
