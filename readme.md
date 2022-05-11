@@ -24,3 +24,5 @@
 `disk:` Checks your disk usage
 
 `about:` About Replux
+
+`run command:` "python3","main.py"
