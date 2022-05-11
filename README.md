@@ -24,5 +24,6 @@
 `disk:` Checks your disk usage
 
 `about:` About Replux
+
 Tested:
--Replux
+-Replit
