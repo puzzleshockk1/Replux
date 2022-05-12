@@ -1,1 +1,0 @@
-print("If you want to use that command you will need to use sudo. Example: sudo cpu")
