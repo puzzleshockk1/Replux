@@ -5,7 +5,7 @@ def slowprint(s):
 		sys.stdout.write(c)
 		sys.stdout.flush()
 		time.sleep(1./20)
-slowprint("REPLUX v 0.0.6\ncreated by valhallaboi and puzzle_shock1")
+slowprint("REPLUX v 0.0.7\ncreated by valhallaboi and puzzle_shock1")
 slowprint("-------------------------------------")
 slowprint("What is Replux?")
 slowprint("Replux is a opensource terminal made with python")
