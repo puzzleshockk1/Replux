@@ -36,7 +36,7 @@
 
 ### Photo
 
-![image](images/help-example.png)
+![image](https://i.ibb.co/4gC7hWh/image-2022-05-12-195826236.png)
 
 ### Replit link 
 
