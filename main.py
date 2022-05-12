@@ -24,7 +24,7 @@ def slowprint(s):
 
 
 slowprint(
-    f"{bcolors.GREEN}Welcome to REPLUX beta v 0.0.6\ncreated by valhallaboi and puzzle_shock1\n Use help to see command list"
+    f"{bcolors.GREEN}Welcome to REPLUX beta v 0.0.7\ncreated by valhallaboi and puzzle_shock1\n Use help to see command list"
 )
 
 
